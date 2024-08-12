@@ -58,6 +58,7 @@ ul li a{
     background-color: antiquewhite;
     display: flex;
     flex-direction: row;
+    background-color: rgba(89, 170, 8, 0.747);
 }
 aside{
     flex: 1;
@@ -74,7 +75,9 @@ main{
 }
 .add4{
     flex: 1.5;
-    background-color: chartreuse;
+    background-color: rgba(89, 170, 8, 0.747);
+    padding: 0 50%;
+    
 }
 .more{
     display: flex;
